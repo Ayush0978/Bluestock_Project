@@ -1,0 +1,17 @@
+body {
+    padding-top: 20px;
+}
+
+#ipo-data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ipo-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+    text-align: center;
+}
